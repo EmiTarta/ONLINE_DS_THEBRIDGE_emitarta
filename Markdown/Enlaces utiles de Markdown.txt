@@ -1,0 +1,18 @@
+## Enlaces utiles de MARKDOWN
+
+1. https://www.markdownguide.org/basic-syntax/
+
+2. https://daringfireball.net/projects/markdown/syntax
+
+3. https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd
+
+
+## Algunos markdown utiles:
+
+Cambiar color de la fuente y/o del resaltado. Ejemplos:
+
+
+<code style="background:yellow;color:black">Ejemplo 1</code>
+<code style="color:blue">Ejemplo 2</code>
+<code style="background:red;color:white">Ejemplo 3</code>
+
